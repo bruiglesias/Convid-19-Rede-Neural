@@ -15,6 +15,10 @@ Um classificador baseado em redes neurais convolucionais que desenvolvi em tenso
 
 <img src="https://github.com/bruiglesias/Convid-19-Rede-Neural/blob/main/convid1.png" width="300"/> <img src="https://github.com/bruiglesias/Convid-19-Rede-Neural/blob/main/convid2.png" width="300"/>  
 
+## Resutados
+
+<img src="https://github.com/bruiglesias/Convid-19-Rede-Neural/blob/main/convid3.png" width="300"/>
+
 
 ## Contribuição
 ```bash
